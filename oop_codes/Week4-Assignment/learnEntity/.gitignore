@@ -34,3 +34,8 @@ build/
 
 .class
 .Ds_Store
+HELP.md
+mvnw.cmd
+learnEntity.iml
+.mvn
+
